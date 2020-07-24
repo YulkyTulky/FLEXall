@@ -1,0 +1,17 @@
+---
+name: FLEXivator
+icmd: killall -9 backboardd
+
+
+all:
+    archs:
+        - armv7
+        - armv7s
+        - arm64
+        - arm64e
+
+FLEXivator:
+    type: tweak
+    logos_files:
+        - Tweak.x
+    cflags: "-fobjc-arc -w"

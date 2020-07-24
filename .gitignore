@@ -1,4 +1,3 @@
-.DS_Store
-.theos
-packages
-FLEX
+**/.*
+packages/
+build.ninja/

@@ -1,9 +1,9 @@
-Package: com.dgh0st.flexall
-Name: FLEXall
-Depends: mobilesubstrate, libflex
-Version: 0.0.1
+Package: com.yulkytulky.flexivator
+Name: FLEXivator
+Version: 1.0
 Architecture: iphoneos-arm
-Description: Load FLEX loader dynamically.
-Maintainer: DGh0st <deeppwnage@yahoo.com>
-Author: DGh0st <deeppwnage@yahoo.com>
-Section: Tweaks
+Description: Open FLEX with Activator!
+Maintainer: YulkyTulky
+Author: YulkyTulky
+Section: Addons (Activator)
+Depends: mobilesubstrate (>= 0.9.5000), libactivator (>= 1.8.3), libflex
